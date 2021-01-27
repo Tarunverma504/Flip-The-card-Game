@@ -5,6 +5,7 @@ let first,second,e1,e2,score=0,lives=5;
 let scorecard=document.getElementById("score"); //score span
 let life=document.getElementById("lives");  //  lives span
 
+
 // shuffle the data
 function shuffle(){
     
